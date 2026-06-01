@@ -26,8 +26,5 @@ Thumbs.db
 *.swp
 *.swo
 
-# Git
-.gitignore
-
-.vercel
+# CLAUDE.md is a local-only reference file
 CLAUDE.md
