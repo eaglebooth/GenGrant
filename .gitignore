@@ -1,0 +1,33 @@
+# Dependencies
+node_modules
+.next
+out
+dist
+build
+*.tsbuildinfo
+
+# Environment
+.env.local
+.env.*.local
+.env.production.local
+
+# GenLayer
+__pycache__
+*.pyc
+.pytest_cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Git
+.gitignore
+
+.vercel
+CLAUDE.md
